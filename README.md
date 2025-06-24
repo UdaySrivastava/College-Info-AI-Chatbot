@@ -3,8 +3,9 @@ This AI-based chatbot offers students personalized guidance on college admission
 <br>P.S. This ChatBot Model only works on the dataset file provided by the User.
 
 To run this program, use Google Colab or any .ipynb editor.
-
 <br>Enter your own HuggingFace API Token in `os.environ["HUGGINGFACEHUB_API_TOKEN"]`
 <br>Input your dataset PDF file path in `pdf_files` 
 <br>To ask your question from the Chatbot, use the Function : `chain.run('Your Question')`
 <br>(I have used My College's dataset PDF to get sample output for representational purpose).
+
+<br>Alternatively, use updated App on HuggingFace https://huggingface.co/spaces/Udaytech/AsKollege
